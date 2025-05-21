@@ -1,0 +1,7 @@
+Flask
+tiktoken
+pinecone-client
+langchain-community
+langchain-pinecone
+langchain-groq
+langdetect
